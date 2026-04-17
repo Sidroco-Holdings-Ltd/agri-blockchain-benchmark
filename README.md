@@ -1,6 +1,6 @@
 # agri-blockchain-benchmark
 
-This repository contains the experimental results for our paper "Benchmarking Blockchain Technologies for Agricultural Applications".
+This repository contains the experimental framework for our paper "Benchmarking Blockchain Technologies for Agricultural Applications".
 
 ## Overview
 
