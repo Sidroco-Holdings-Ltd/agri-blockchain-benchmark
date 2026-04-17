@@ -1,6 +1,6 @@
 # agri-blockchain-benchmark
 
-This repository provides a benchmarking framework for evaluating smart contracts tailored for agricultural applications across various blockchain platforms.
+This repository contains the experimental results for our paper "Benchmarking Blockchain Technologies for Agricultural Applications".
 
 ## Overview
 
